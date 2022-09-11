@@ -1,4 +1,4 @@
-import pyowm
+from pyowm import owm
 
 owm = pyowm.OWM('sua chave qui')
 
