@@ -1,4 +1,4 @@
-# Previsâo do tempo | Weather forecast
+# Previsão do tempo | Weather forecast
 
 ☠️ Estava querendo fazer um projeto em Python e 
 assisti um tutorial online guiado, para eu ter minha
